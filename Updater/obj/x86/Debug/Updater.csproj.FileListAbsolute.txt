@@ -1,0 +1,7 @@
+D:\Sektor\Develop\Projects\Visual Studio 2010\php_1.2.2.1\Updater\bin\Debug\Updater.exe
+D:\Sektor\Develop\Projects\Visual Studio 2010\php_1.2.2.1\Updater\bin\Debug\Updater.pdb
+D:\Sektor\Develop\Projects\Visual Studio 2010\php_1.2.2.1\Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+D:\Sektor\Develop\Projects\Visual Studio 2010\php_1.2.2.1\Updater\obj\x86\Debug\Updater.updaterForm.resources
+D:\Sektor\Develop\Projects\Visual Studio 2010\php_1.2.2.1\Updater\obj\x86\Debug\Updater.csproj.GenerateResource.Cache
+D:\Sektor\Develop\Projects\Visual Studio 2010\php_1.2.2.1\Updater\obj\x86\Debug\Updater.exe
+D:\Sektor\Develop\Projects\Visual Studio 2010\php_1.2.2.1\Updater\obj\x86\Debug\Updater.pdb
